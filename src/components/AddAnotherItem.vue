@@ -9,6 +9,7 @@
             <option value="drink">Drink</option>
             <option value="meat">Meat</option>
             <option value="set meal">Set Meal</option>
+            <option value="fruit">Fruit</option>
             <option value="others">Others</option>
         </select>
         <label>Item Name: </label>
